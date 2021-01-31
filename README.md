@@ -9,3 +9,4 @@
 * [x] ca-certificates
 * [x] openssl
 * [x] curl
+* [x] nslookup
